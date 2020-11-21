@@ -1,0 +1,32 @@
+body {
+  font-family: 'Book Antiqua', verdana, sans-serif;
+  background-color: #a2d5f2;
+  color: #fff;
+}
+
+h1 {
+  font-family: 'Courgette', verdana, sans-serif;
+  font-size: 4.5rem;
+}
+
+/* Title Section */
+#title {
+  text-align: center;
+  margin: 10rem auto 0;
+}
+
+.cabin {
+  margin: -9em auto;
+}
+
+/* Footer Section */
+#footer {
+  background-color: #F8B44C;
+  color: #007bff;
+  text-align: center;
+  margin: 10em auto 0;
+}
+
+.footIcon {
+  padding: 1%;
+}
